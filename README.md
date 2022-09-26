@@ -1,1 +1,1 @@
-# Exerc-cios-em-Sala
+# Exercícios-em-Sala
