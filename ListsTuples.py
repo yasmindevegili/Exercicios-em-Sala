@@ -37,3 +37,7 @@ print (x[-1:-6:-1])
 
 #valores pares
 print (x[1::2])
+
+#len
+x = list(range(1,21))
+print (f"O numero de elementos da lista eh {len(x)}")
